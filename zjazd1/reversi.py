@@ -15,7 +15,6 @@ def to_string(a):
     """
     return "ABCD"[a[0]] + str(a[1] + 1)
 
-
 def to_array(s):
     """
     Convert board coords in string format to array [x,y]
